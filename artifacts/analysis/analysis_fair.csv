@@ -1,0 +1,10 @@
+Model,Fair Human Score (Avg),Total Human Points (Fair)
+8. Capped 0.8 (Exp 5a),6.052631855010986,690.0
+9. Swap+Capped 0.8 (Exp 5b),6.052631855010986,690.0
+1. Probe (Teacher),6.043859481811523,689.0
+6. Dynamic Basic (Exp 4a),5.964912414550781,680.0
+7. Dynamic Boost (Exp 4b),5.938596725463867,677.0
+2. Baseline (Exp 1),5.885964870452881,671.0
+5. Static WMSE (Exp 3b),5.877192974090576,670.0
+4. Static KL (Exp 3a),5.798245429992676,661.0
+3. SBLS (Exp 2),5.666666507720947,646.0

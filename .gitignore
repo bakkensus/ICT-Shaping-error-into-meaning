@@ -1,0 +1,17 @@
+# Ignorer store datafiler
+data/
+*.tar.gz
+*.zip
+
+# Ignorer modell-vekter (checkpoints)
+checkpoints/
+*.pth
+
+# Ignorer midlertidige Jupyter-filer
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Ignorer andre tunge filer
+repo_dump.txt
+repo_data_dump.txt
+samlede_plott_med_kontekst.zip
